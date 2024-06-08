@@ -4,7 +4,7 @@
 2|📌Performance Testing Types Made Simple: What You Need to Know Performance Engineering Episode 2 - YouTube	 | https://youtu.be/lTjxlv8N5NU |	https://spotifyanchor-web.app.link/e/ZvuWgGrw8Jb |
 3|How To Download and Install Neoload Windows | https://youtu.be/yqvvDKT1KIs	| https://spotifyanchor-web.app.link/e/IgSdihV4bKb |
 4|📌How to Download and Install Neoload Root Certificate  #Neoload Step By Step  Episode 2 |	https://youtu.be/PfdggV0wxUA |	https://spotifyanchor-web.app.link/e/5uFhxgfOcKb |
-5|	How to Record Web Application in NeoLoad  #Neoload Step By Step Fundamentals  Episode 3 | https://youtu.be/r4I0st1FM3U	 |
+5|	How to Record Web Application in NeoLoad  #Neoload Step By Step Fundamentals  Episode 3 | https://youtu.be/r4I0st1FM3U	 | https://podcasters.spotify.com/pod/show/vasanth-m-shanmugam/episodes/How-to-Record-Web-Application-in-NeoLoad--Neoload-Step-By-Step--Fundamentals-e2kl63u |
 6|	Variable Manager  Neoload Step by Step  Episode 4 |	https://youtu.be/u-e1QtcYnRY	|
 7 |	Parameterization in Neoload Variable Types  Variable Manager  #Neoload Step by Step  Episode 5 	| https://youtu.be/e-2PIow1FY4	
 8 |	Parameterization in Neoload  Replace Created Variable  Variable Manager  Neoload  Episode 6	| https://youtu.be/t5CLYiD2lzA	
